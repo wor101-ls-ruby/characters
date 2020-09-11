@@ -72,6 +72,7 @@ while exit == false
     
     # when user decides to exit
     when "exit"
+      puts "Farewell good friend!" 
       exit = true
       
     # error message
