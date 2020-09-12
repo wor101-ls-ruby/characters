@@ -72,7 +72,7 @@ while exit == false
     
     # when user decides to exit
     when "exit"
-      puts "Why are you leaving so soon!" 
+      puts "Why are you leaving so soon, updated via Windows!!" 
       exit = true
       
     # error message
